@@ -1,0 +1,57 @@
+body {background-color: #2c2c2c;}
+
+table {
+	 border: 1px solid grey;
+	 border-collapse: collapse;	
+	 width: 60%;
+	 margin-left: 2cm;
+	 background-color: #2e2e2e;
+	}
+.tabA {
+	margin-top: 3cm;
+}
+
+.tabB,.tabC {
+	margin-top: 1cm;
+}
+
+th, td {
+	color: white;
+	height: 40px;
+	border-bottom: 1px solid grey;
+	padding-left: 15px;
+	width: 20%
+
+}
+
+th {
+	text-align: left;
+
+}
+
+.middle, .dots.dots-grey{
+	color: rgb(140,140,140);
+}
+
+.search input {
+	height: 30px;
+	background-color: #444444;
+	color: white;
+	padding-left: 10px;
+
+}
+
+.search{
+	text-align: right;
+	padding-right: 3px;
+}
+
+.dots{
+	text-align: right;
+	padding-right: 8px;
+}
+
+.arrow-down{
+	margin-left: 5px;  
+  	
+}
